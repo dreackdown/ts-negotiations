@@ -5,8 +5,11 @@
         "Formulario",
         "limpar",
         "lista",
+        "negociacao",
         "Negociacao",
         "negociacoes",
-        "Quantidade"
+        "Quantidade",
+        "SABADO",
+        "TERCA"
     ]
 }
